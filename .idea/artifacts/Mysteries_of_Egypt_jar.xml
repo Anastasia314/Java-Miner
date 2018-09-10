@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Mysteries of Egypt:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Mysteries_of_Egypt_jar</output-path>
+    <root id="archive" name="Mysteries of Egypt.jar">
+      <element id="module-output" name="Mysteries_of_Egypt" />
+    </root>
+  </artifact>
+</component>
